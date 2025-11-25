@@ -31,7 +31,7 @@ function App() {
         className="desktop15-rectangle165"
       />
       <span className="desktop15-text291">Tittles font: Maku , Bold</span>
-      <OurVision id={"Vision"} />
+      <OurVision />
       <ContentInfo />
       <VocaTooki />
       <PreschoolApps />
