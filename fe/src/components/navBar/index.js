@@ -48,6 +48,7 @@ const NavBar = () => {
             onClick={() => {
               const el = document.getElementById("Team");
               if (el) el.scrollIntoView({ behavior: "smooth" });
+              else;
             }}
           >
             Team

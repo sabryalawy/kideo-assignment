@@ -1,6 +1,6 @@
 import "./getInTouch.css";
 
-const GetInTouchUI = () => {
+const GetInTouchUI = ({ formik }) => {
   return (
     <>
       <span className="desktop15-text139" id="Contact us">
@@ -27,6 +27,10 @@ const GetInTouchUI = () => {
       />
       <span className="desktop15-text140">Name</span>
       <input
+        id="name"
+        name="name"
+        value={formik.name}
+        onChange={formik.handleChange}
         type="text"
         src="/rectangle1380129-xh9i-200h.png"
         alt="Rectangle1380129"
@@ -34,6 +38,10 @@ const GetInTouchUI = () => {
       />
       <span className="desktop15-text141">Email</span>
       <input
+        id="email"
+        name="email"
+        value={formik.email}
+        onChange={formik.handleChange}
         type="text"
         src="/rectangle1390128-yk8t-200h.png"
         alt="Rectangle1390128"
@@ -41,11 +49,24 @@ const GetInTouchUI = () => {
       />
       <span className="desktop15-text142">Message</span>
       <textarea
+        id="message"
+        name="message"
+        value={formik.message}
         src="/rectangle1400130-0q5k-300h.png"
         alt="Rectangle1400130"
         className="desktop15-rectangle140"
       />
-      <button className="desktop15-rectangle141">Send</button>
+      <button
+        className="desktop15-rectangle141"
+        onClick={formik.handleSubmit}
+        disabled={formik.isSubmitting}
+      >
+        {formik.isSubmitting ? (
+          <span aria-busy="true">Loading...</span>
+        ) : (
+          "Send"
+        )}
+      </button>
       <span className="desktop15-text104">Follow Us On</span>
       <div className="desktop15-social157077531">
         <div className="desktop15-group2">
