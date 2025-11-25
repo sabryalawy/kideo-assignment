@@ -5,12 +5,6 @@ import "./desktop15.css";
 const Desktop15 = (props) => {
   return (
     <div className="desktop15-container1">
-      <title>exported project</title>
-      <meta property="og:title" content="exported project" />
-      <link
-        rel="canonical"
-        href="https://untitled-copy-lvr6i6.teleporthq.app/"
-      />
       <div className="desktop15-desktop15">
         <img
           src="/image8304-b32j-200h.png"
@@ -18,171 +12,18 @@ const Desktop15 = (props) => {
           className="desktop15-image83"
         />
         <img
-          src="/ellipse4305-5ghj-1800h.png"
+          src="/Ellipse 43.png"
           alt="Ellipse4305"
           className="desktop15-ellipse43"
         />
-        <span className="desktop15-text100">
-          <span>
-            We’d love to hear from you! Whether you’re a parent, educator, or
-            partner .
-          </span>
-          <br></br>
-          <span>let’s build the future of playful learning together.</span>
-        </span>
-        <img
-          src="/image9009-q334-200h.png"
-          alt="image9009"
-          className="desktop15-image90"
-        />
-        <span className="desktop15-text104">Follow Us On</span>
-        <img
-          src="/rectangle14011-8y5k-1400h.png"
-          alt="Rectangle14011"
-          className="desktop15-rectangle14"
-        />
-        <div className="desktop15-group49">
-          <img
-            src="/rectangle10013-sc8t-200h.png"
-            alt="Rectangle10013"
-            className="desktop15-rectangle1010"
-          />
-          <img
-            src="/rectangle11014-brsi-200h.png"
-            alt="Rectangle11014"
-            className="desktop15-rectangle1110"
-          />
-          <img
-            src="/image32015-4q6n-200h.png"
-            alt="image32015"
-            className="desktop15-image3210"
-          />
-        </div>
-        <span className="desktop15-text105">Learning Apps, Children Love</span>
-        <span className="desktop15-text106">
-          <span className="desktop15-text107">
-            To redefine language education
-          </span>
-          <br></br>
-          <span className="desktop15-text109">
-            through AI — making learning a new language
-          </span>
-          <br></br>
-          <span className="desktop15-text111">an inspiring,</span>
-          <span className="desktop15-text112">playful</span>
-          <span className="desktop15-text113">, and powerful way</span>
-          <br></br>
-          <span className="desktop15-text115">
-            to
-            <span
-              dangerouslySetInnerHTML={{
-                __html: " ",
-              }}
-            />
-          </span>
-          <span className="desktop15-text116">
-            bridge cultures
-            <span
-              dangerouslySetInnerHTML={{
-                __html: " ",
-              }}
-            />
-          </span>
-          <span>and build a better global.</span>
-        </span>
-        <img
-          src="/asset12018-sku-200h.png"
-          alt="Asset12018"
-          className="desktop15-asset12"
-        />
-        <div className="desktop15-group24">
-          <img
-            src="/xftjj1020-ngc9-200h.png"
-            alt="xftjj1020"
-            className="desktop15-xftjj1"
-          />
-          <img
-            src="/cghymk1021-n6bv-300w.png"
-            alt="cghymk1021"
-            className="desktop15-cghymk1"
-          />
-          <img
-            src="/ukyfk1022-ct1-200h.png"
-            alt="ukyfk1022"
-            className="desktop15-ukyfk1"
-          />
-          <img
-            src="/szd3023-27wc-200h.png"
-            alt="szd3023"
-            className="desktop15-szd3"
-          />
-          <img
-            src="/vhn4024-a0mg.svg"
-            alt="vhn4024"
-            className="desktop15-vhn4"
-          />
-          <img
-            src="/xtfj4025-dfju.svg"
-            alt="xtfj4025"
-            className="desktop15-xtfj4"
-          />
-          <img
-            src="/cguk4026-ne2b.svg"
-            alt="cguk4026"
-            className="desktop15-cguk4"
-          />
-          <img
-            src="/xgfh4027-tmze.svg"
-            alt="xgfh4027"
-            className="desktop15-xgfh4"
-          />
-          <img
-            src="/xdth3028-0w37.svg"
-            alt="xdth3028"
-            className="desktop15-xdth3"
-          />
-          <img src="/n1029-n43-200h.png" alt="n1029" className="desktop15n1" />
-          <img
-            src="/xfm1030-1ges-200h.png"
-            alt="xfm1030"
-            className="desktop15-xfm1"
-          />
-          <img src="/s031-x6qi-200h.png" alt="s031" className="desktop15s" />
-          <img src="/z032-v1ic-200h.png" alt="z032" className="desktop15z" />
-          <img src="/x033-eyb9-200h.png" alt="x033" className="desktop15x" />
-          <img src="/m034-f5z6-200w.png" alt="m034" className="desktop15m" />
-          <img
-            src="https://play.teleporthq.io/static/svg/default-img.svg"
-            alt="v035"
-            className="desktop15v"
-          />
-          <img
-            src="https://play.teleporthq.io/static/svg/default-img.svg"
-            alt="b036"
-            className="desktop15b"
-          />
-          <img
-            src="https://play.teleporthq.io/static/svg/default-img.svg"
-            alt="c037"
-            className="desktop15c"
-          />
-          <img
-            src="https://play.teleporthq.io/static/svg/default-img.svg"
-            alt="n038"
-            className="desktop15n"
-          />
-        </div>
+
         <img
           src="/rectangle67039-syzd-300w.png"
           alt="Rectangle67039"
           className="desktop15-rectangle67"
         />
         <div className="desktop15-group41">
-          <img
-            src="https://play.teleporthq.io/static/svg/default-img.svg"
-            alt="image"
-            className="desktop15-image"
-          />
+          <img src="Group 41.png" alt="image" className="desktop15-image" />
         </div>
         <img
           src="/rectangle68043-nvgu-200h.png"
@@ -362,52 +203,37 @@ const Desktop15 = (props) => {
         <span className="desktop15-text142">Message</span>
         <div className="desktop15-maskgroup1">
           <img
-            src="https://play.teleporthq.io/static/svg/default-img.svg"
+            src="image (3) 2.png"
             alt="image32099"
-            className="desktop15-image3211"
+            className="desktop15-rectangle1321"
           />
         </div>
         <div className="desktop15-maskgroup2">
           <img
-            src="https://play.teleporthq.io/static/svg/default-img.svg"
+            src="Mask group (1).png"
             alt="Rectangle1320101"
             className="desktop15-rectangle1321"
-          />
-          <img
-            src="https://play.teleporthq.io/static/svg/default-img.svg"
-            alt="IMG940520102"
-            className="desktop15img94052"
           />
         </div>
         <div className="desktop15-maskgroup3">
           <img
-            src="https://play.teleporthq.io/static/svg/default-img.svg"
+            src="Mask group (2).png"
             alt="Rectangle1340104"
             className="desktop15-rectangle134"
-          />
-          <img
-            src="https://play.teleporthq.io/static/svg/default-img.svg"
-            alt="IMG955620105"
-            className="desktop15img95562"
           />
         </div>
         <div className="desktop15-maskgroup4">
           <img
-            src="https://play.teleporthq.io/static/svg/default-img.svg"
+            src="Mask group.png"
             alt="Rectangle1330107"
             className="desktop15-rectangle133"
-          />
-          <img
-            src="https://play.teleporthq.io/static/svg/default-img.svg"
-            alt="IMG950720108"
-            className="desktop15img95072"
           />
         </div>
         <div className="desktop15-maskgroup5">
           <img
-            src="https://play.teleporthq.io/static/svg/default-img.svg"
+            src="Mask group (3).png"
             alt="IMG920920111"
-            className="desktop15img92092"
+            className="desktop15-rectangle133"
           />
         </div>
         <img
@@ -627,26 +453,26 @@ const Desktop15 = (props) => {
           <span className="desktop15-text168">Voca Tooki</span>
           <span className="desktop15-text169">Website</span>
           <img
-            src="https://play.teleporthq.io/static/svg/default-img.svg"
+            src="Asset1 1.png"
             alt="Asset110175"
             className="desktop15-asset111"
           />
         </div>
         <div className="desktop15-group42">
           <img
-            src="https://play.teleporthq.io/static/svg/default-img.svg"
-            alt="Rectangle100178"
-            className="desktop15-rectangle1011"
+            src="/rectangle10013-sc8t-200h.png"
+            alt="Rectangle10013"
+            className="desktop15-rectangle1010"
           />
           <img
-            src="https://play.teleporthq.io/static/svg/default-img.svg"
-            alt="Rectangle110179"
-            className="desktop15-rectangle1111"
+            src="/rectangle11014-brsi-200h.png"
+            alt="Rectangle11014"
+            className="desktop15-rectangle1110"
           />
           <img
-            src="https://play.teleporthq.io/static/svg/default-img.svg"
-            alt="image320180"
-            className="desktop15-image3212"
+            src="/image32015-4q6n-200h.png"
+            alt="image32015"
+            className="desktop15-image3210"
           />
         </div>
         <img
@@ -1326,49 +1152,13 @@ const Desktop15 = (props) => {
           alt="GesaWinners0710340"
           className="desktop15-gesa-winners071"
         />
-        <img
-          src="/rectangle1640341-5o9-200h.png"
-          alt="Rectangle1640341"
-          className="desktop15-rectangle164"
-        />
+
         <img
           src="/image940342-a2gb-400h.png"
           alt="image940342"
           className="desktop15-image94"
         />
-        <div className="desktop15-group53">
-          <img
-            src="/zth316-ap69-200h.png"
-            alt="zth316"
-            className="desktop15-zth3"
-          />
-          <img
-            src="/dtyj30346-nj3m-200h.png"
-            alt="dtyj30346"
-            className="desktop15-dtyj3"
-          />
-        </div>
-        <span className="desktop15-text283">Trusted By</span>
-        <span className="desktop15-text284">
-          400M+ downloads across 190+ countries
-        </span>
-        <span className="desktop15-text285">
-          <span>Trusted by Schools</span>
-          <br></br>
-          <span>Loved by Children</span>
-          <br></br>
-          <span>Backed by Innovation</span>
-        </span>
-        <img
-          src="/gyik219-cf54-200h.png"
-          alt="gyik219"
-          className="desktop15-gyik2"
-        />
-        <img
-          src="/image41110-z4ju-200w.png"
-          alt="image41110"
-          className="desktop15-image41"
-        />
+
         <img
           src="/rectangle16592-bb3q-200h.png"
           alt="Rectangle16592"
@@ -1408,46 +1198,13 @@ const Desktop15 = (props) => {
             />
           </div>
         </div>
-        <img
-          src="/rectangle137086-z2je-900h.png"
-          alt="Rectangle137086"
-          className="desktop15-rectangle137"
-        />
+
         <img
           src="/image890184-v8t-400h.png"
           alt="image890184"
           className="desktop15-image89"
         />
       </div>
-      <a href="https://play.teleporthq.io/signup" className="desktop15-link">
-        <div
-          aria-label="Sign up to TeleportHQ"
-          className="desktop15-container3"
-        >
-          <svg
-            width="24"
-            height="24"
-            viewBox="0 0 19 21"
-            fill="none"
-            xmlns="http://www.w3.org/2000/svg"
-            className="desktop15-icon1"
-          >
-            <path
-              d="M9.1017 4.64355H2.17867C0.711684 4.64355 -0.477539 5.79975 -0.477539 7.22599V13.9567C-0.477539 15.3829 0.711684 16.5391 2.17867 16.5391H9.1017C10.5687 16.5391 11.7579 15.3829 11.7579 13.9567V7.22599C11.7579 5.79975 10.5687 4.64355 9.1017 4.64355Z"
-              fill="#B23ADE"
-            ></path>
-            <path
-              d="M10.9733 12.7878C14.4208 12.7878 17.2156 10.0706 17.2156 6.71886C17.2156 3.3671 14.4208 0.649963 10.9733 0.649963C7.52573 0.649963 4.73096 3.3671 4.73096 6.71886C4.73096 10.0706 7.52573 12.7878 10.9733 12.7878Z"
-              fill="#FF5C5C"
-            ></path>
-            <path
-              d="M17.7373 13.3654C19.1497 14.1588 19.1497 15.4634 17.7373 16.2493L10.0865 20.5387C8.67402 21.332 7.51855 20.6836 7.51855 19.0968V10.5141C7.51855 8.92916 8.67402 8.2807 10.0865 9.07221L17.7373 13.3654Z"
-              fill="#2874DE"
-            ></path>
-          </svg>
-          <span className="desktop15-text299">Built in TeleportHQ</span>
-        </div>
-      </a>
     </div>
   );
 };
