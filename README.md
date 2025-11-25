@@ -1,19 +1,56 @@
-# kideo-assignment
+# Kideo Assignment
 
-BE (backend) 
+## Overview
+This project consists of a frontend (React) and a backend (Node.js/TypeScript). The goal is to implement a UI based on the provided Figma design and deliver backend APIs connected to MySQL.
 
-technoligies used typescript, node js, express js and mysql2.
+---
 
-under the be dir you will find sqlinit.sql file that containse the needed tables in the database you can copy them and you can start directly
-after cloning make sure that you are in the be dirictory and then run these commands
+## System Requirements
+- **Node.js:** v16.17.0
+- **NPM:** v8.15.0
 
-npm i
-npm start 
+---
 
-please check the curls that can be imported to post man to test it
+## Frontend (FE)
+- **Technology:** React JS v19
+- The UI is adapted from a Figma design.
 
+### Quick Installation
+```
+cd fe
+npm install
+npm start
+```
+The application will start on the default React development server port.
+
+---
+
+## Backend (BE)
+- **Technologies:** TypeScript, Node.js, Express.js, MySQL2
+
+### Database Initialization
+Inside the `be` directory, there is a file named `sqlinit.sql` containing all required database tables. Copy its content into your MySQL environment to initialize the database.
+
+### Quick Installation
+```
+cd be
+npm install
+npm start
+```
+The backend server will run on port **8081**.
+
+---
+
+## API Testing
+Below are sample cURL commands that can be imported into Postman.
+
+### GET Contact
+```
 curl --location 'localhost:8081/contact'
+```
 
+### POST Contact
+```
 curl --location 'localhost:8081/contact' \
 --header 'Content-Type: application/json' \
 --data '{
@@ -21,3 +58,5 @@ curl --location 'localhost:8081/contact' \
     "message":"test",
     "name":"test"
 }'
+```
+
