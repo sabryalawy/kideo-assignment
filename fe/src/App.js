@@ -1,5 +1,6 @@
 import "./App.css";
 import BackGroundCrums from "./components/backgroundCrums";
+import ContactMessages from "./components/contactMessages";
 import Footer from "./components/footer";
 import Desktop15 from "./components/navBar";
 import ContentInfo from "./components/sections/contentInfo";
@@ -39,6 +40,8 @@ function App() {
       <Team />
       <GetInTouch />
       <Footer />
+
+      <ContactMessages />
     </div>
   );
 }
