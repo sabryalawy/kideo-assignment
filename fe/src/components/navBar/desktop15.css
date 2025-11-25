@@ -247,16 +247,23 @@
   top: 20px;
   left: 118px;
   color: rgba(38, 42, 89, 1);
-  height: auto;
   position: absolute;
-  font-size: 16.565902709960938px;
-  font-style: Semi Bold;
+  font-size: 16.5659px;
   text-align: center;
   font-family: Inter;
   font-weight: 700;
-  line-height: normal;
-  font-stretch: normal;
-  text-decoration: none;
+  cursor: pointer;
+  user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  transition: transform 0.2s ease;
+}
+.desktop15-text292:hover {
+  transform: scale(1.05);
+}
+
+.desktop15-text292:active {
+  transform: scale(0.95);
 }
 
 .desktop15-text293 {
@@ -273,6 +280,18 @@
   line-height: normal;
   font-stretch: normal;
   text-decoration: none;
+  cursor: pointer;
+  user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  transition: transform 0.2s ease;
+}
+.desktop15-text293:hover {
+  transform: scale(1.05);
+}
+
+.desktop15-text293:active {
+  transform: scale(0.95);
 }
 
 .desktop15-text294 {
@@ -289,8 +308,41 @@
   line-height: normal;
   font-stretch: normal;
   text-decoration: none;
+  cursor: pointer;
+  user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  transition: transform 0.2s ease;
+}
+.desktop15-text294:hover {
+  transform: scale(1.05);
 }
 
+.desktop15-text294:active {
+  transform: scale(0.95);
+}
+
+.desktop15-text295:hover {
+  transform: scale(1.05);
+}
+
+.desktop15-text295:active {
+  transform: scale(0.95);
+}
+.desktop15-text296:hover {
+  transform: scale(1.05);
+}
+
+.desktop15-text296:active {
+  transform: scale(0.95);
+}
+.desktop15-text297:hover {
+  transform: scale(1.05);
+}
+
+.desktop15-text297:active {
+  transform: scale(0.95);
+}
 .desktop15-text295 {
   top: 20px;
   left: 418px;
@@ -305,6 +357,11 @@
   line-height: normal;
   font-stretch: normal;
   text-decoration: none;
+  cursor: pointer;
+  user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  transition: transform 0.2s ease;
 }
 
 .desktop15-text296 {
@@ -321,6 +378,11 @@
   line-height: normal;
   font-stretch: normal;
   text-decoration: none;
+  cursor: pointer;
+  user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  transition: transform 0.2s ease;
 }
 
 .desktop15-text297 {
@@ -337,6 +399,11 @@
   line-height: normal;
   font-stretch: normal;
   text-decoration: none;
+  cursor: pointer;
+  user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  transition: transform 0.2s ease;
 }
 
 .desktop15-asset112 {

@@ -7,12 +7,60 @@ const NavBar = () => {
     <div className="desktop15-container1">
       <div className="desktop15-desktop15">
         <div className="desktop15-group18">
-          <span className="desktop15-text292">Vision</span>
-          <span className="desktop15-text293">Voca Tooki</span>
-          <span className="desktop15-text294">Preschool</span>
-          <span className="desktop15-text295">Testomonial</span>
-          <span className="desktop15-text296">Team</span>
-          <span className="desktop15-text297">Contact Us</span>
+          <span
+            className="desktop15-text292"
+            onClick={() => {
+              const el = document.getElementById("Vision");
+              if (el) el.scrollIntoView({ behavior: "smooth" });
+            }}
+          >
+            Vision
+          </span>
+          <span
+            className="desktop15-text293"
+            onClick={() => {
+              const el = document.getElementById("Voca Tooki");
+              if (el) el.scrollIntoView({ behavior: "smooth" });
+            }}
+          >
+            Voca Tooki
+          </span>
+          <span
+            className="desktop15-text294"
+            onClick={() => {
+              const el = document.getElementById("Preschool");
+              if (el) el.scrollIntoView({ behavior: "smooth" });
+            }}
+          >
+            Preschool
+          </span>
+          <span
+            className="desktop15-text295"
+            onClick={() => {
+              const el = document.getElementById("Testomonial");
+              if (el) el.scrollIntoView({ behavior: "smooth" });
+            }}
+          >
+            Testomonial
+          </span>
+          <span
+            className="desktop15-text296"
+            onClick={() => {
+              const el = document.getElementById("Team");
+              if (el) el.scrollIntoView({ behavior: "smooth" });
+            }}
+          >
+            Team
+          </span>
+          <span
+            className="desktop15-text297"
+            onClick={() => {
+              const el = document.getElementById("Contact us");
+              if (el) el.scrollIntoView({ behavior: "smooth" });
+            }}
+          >
+            Contact Us
+          </span>
           <img
             src="/asset110357-39sf-200h.png"
             alt="Asset110357"

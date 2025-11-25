@@ -7,6 +7,7 @@ const OurVision = () => {
         src="/image840181-gcc9-600w.png"
         alt="image840181"
         className="desktop15-image84"
+        id="Vision"
       />
       <span className="desktop15-text107">To redefine language education</span>
       <br></br>

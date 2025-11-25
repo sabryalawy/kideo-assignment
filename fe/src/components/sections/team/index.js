@@ -35,6 +35,7 @@ const Team = () => {
       />
       <div className="desktop15-maskgroup1">
         <img
+          id="Team"
           src="image (3) 2.png"
           alt="image32099"
           className="desktop15-rectangle1321"

@@ -28,7 +28,9 @@ const Testomonial = () => {
         alt="Rectangle1280318"
         className="desktop15-rectangle128"
       />
-      <span className="desktop15-text274">Testomonial</span>
+      <span className="desktop15-text274" id="Testomonial">
+        Testomonial
+      </span>
       <img
         src="/ellipse400320-j2wy-200h.png"
         alt="Ellipse400320"

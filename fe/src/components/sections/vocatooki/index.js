@@ -7,6 +7,7 @@ const VocaTooki = () => {
         src="/image860183-ggo-400h.png"
         alt="image860183"
         className="desktop15-image86"
+        id="Voca Tooki"
       />
       <span className="desktop15-text161">
         <span className="desktop15-text162">

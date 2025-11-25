@@ -3,7 +3,9 @@ import "./getInTouch.css";
 const GetInTouchUI = () => {
   return (
     <>
-      <span className="desktop15-text139">Contact us</span>
+      <span className="desktop15-text139" id="Contact us">
+        Contact us
+      </span>
       <span className="desktop15-text153">Learning Apps, Children Love</span>
       <img
         src="/asset130132-og6-200h.png"

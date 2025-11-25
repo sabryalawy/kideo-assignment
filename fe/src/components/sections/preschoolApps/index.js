@@ -7,6 +7,7 @@ const PreschoolApps = () => {
         src="/image870205-ejw-200h.png"
         alt="image870205"
         className="desktop15-image87"
+        id="Preschool"
       />
       <span className="desktop15-text174">
         <span>Our preschool apps offer wide range of contnet,</span>
