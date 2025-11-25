@@ -14,8 +14,6 @@ const ContactMessagesControllerRout: Router = Router();
 ContactMessagesControllerRout.post(
   "/",
   exptionHandlerASYNC(async (request: Request, response: Response) => {
-    console.log(request.body);
-
     const data = await addContactMessage(
       request.body.email,
       request.body.message,
