@@ -1,9 +1,14 @@
+import {
+  addMessage,
+  getMessages,
+} from "../../repositories/contactMessagesRepository";
+
 export const addContactMessage = async (
   email: string,
   message: string,
   name: string
 ): Promise<any> => {
-  await addContactMessage(email, message, name);
+  await addMessage(email, message, name);
   return { email, message, name, status: "Message received" };
 };
 
@@ -14,6 +19,6 @@ export const getContactMessage = async (
   return {
     page,
     limit,
-    messages: await getContactMessage(Number(page), Number(limit)),
+    messages: await getMessages(Number(page), Number(limit)),
   };
 };

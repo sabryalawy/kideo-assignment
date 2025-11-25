@@ -46,7 +46,4 @@ const getMessages = (page: Number, limit: Number): Promise<any> => {
   );
 };
 
-export default {
-  addMessage,
-  getMessages,
-};
+export { addMessage, getMessages };
