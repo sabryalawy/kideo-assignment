@@ -1,6 +1,5 @@
 .App {
   text-align: center;
-  max-width: 100%;
 }
 
 .App-logo {
@@ -29,6 +28,30 @@
   color: #61dafb;
 }
 
+.desktop15-rectangle165 {
+  top: 1665px;
+  left: 476px;
+  width: 563px;
+  height: 50px;
+  position: absolute;
+}
+
+.desktop15-text291 {
+  top: 1668px;
+  left: 552px;
+  color: rgba(38, 42, 89, 1);
+  width: 385px;
+  height: auto;
+  position: absolute;
+  font-size: 32.98851013183594px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);

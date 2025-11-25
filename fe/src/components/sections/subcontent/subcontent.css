@@ -1,9 +1,6 @@
 .desktop15-rectangle14 {
-  top: -30.000091552734375px;
-  left: 0.00005340576171875px;
-  width: 2000px;
-  height: 1303px;
-  /* z-index: -1; */
+  top: 0px;
+  max-width: 100%;
   position: absolute;
 }
 .desktop15-xftjj1 {
@@ -41,8 +38,8 @@
 }
 
 .desktop15-vhn4 {
-  top: 259.97662353515625px;
-  left: 1646.537109375px;
+  top: 312.976624px;
+  left: 1610.537109px;
   width: 247px;
   height: 228px;
   position: absolute;
@@ -67,8 +64,8 @@
 }
 
 .desktop15-xgfh4 {
-  top: 230.11328125px;
-  left: 1792.1162109375px;
+  top: 175.113281px;
+  left: 1729.116211px;
   width: 107px;
   height: 98px;
   opacity: 0.36;

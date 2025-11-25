@@ -3,6 +3,11 @@ import "./ourVision.css";
 const OurVision = () => {
   return (
     <span className="desktop15-text106">
+      <img
+        src="/image840181-gcc9-600w.png"
+        alt="image840181"
+        className="desktop15-image84"
+      />
       <span className="desktop15-text107">To redefine language education</span>
       <br></br>
       <span className="desktop15-text109">
@@ -52,11 +57,7 @@ const OurVision = () => {
         alt="Rectangle520200"
         className="desktop15-rectangle51"
       />
-      <img
-        src="/rectangle620196-abmq-200h.png"
-        alt="Rectangle620196"
-        className="desktop15-rectangle62"
-      />
+
       <img
         src="/rectangle580197-27eo-200h.png"
         alt="Rectangle580197"
@@ -67,6 +68,19 @@ const OurVision = () => {
         src="/design15557728ezgifcomgifmaker0199-k3x5-200h.png"
         alt="design15557728ezgifcomgifmaker0199"
         className="desktop15-design15557728ezgifcomgifmaker"
+      />
+      <img
+        src="/rectangle630192-nlqs-200h.png"
+        alt="Rectangle630192"
+        className="desktop15-rectangle63"
+      />
+      <span className="desktop15-text171">
+        Children&apos;s Safety &amp; Well-being
+      </span>
+      <img
+        src="/safechildren16441409ezgifcomgifmaker0194-8hpr-200h.png"
+        alt="safechildren16441409ezgifcomgifmaker0194"
+        className="desktop15-safechildren16441409ezgifcomgifmaker"
       />
     </span>
   );
