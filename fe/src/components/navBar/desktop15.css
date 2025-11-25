@@ -56,7 +56,7 @@
 .desktop15-group24 {
   top: 141px;
   left: 22px;
-  width: 2075px;
+  width: 2000px;
   height: 797.05810546875px;
   display: flex;
   position: absolute;
@@ -570,7 +570,7 @@
 
 .desktop15-image56 {
   top: 1792px;
-  left: 1893px;
+  left: 1793px;
   width: 54px;
   height: 54px;
   position: absolute;
@@ -1049,36 +1049,6 @@
   width: 549px;
   height: 1px;
   position: absolute;
-}
-
-.desktop15-rectangle139 {
-  top: 8192.6708984375px;
-  left: 1112.2236328125px;
-  width: 530px;
-  height: 63px;
-  z-index: 1;
-  position: absolute;
-  border-radius: 16.052631378173828px;
-}
-
-.desktop15-rectangle138 {
-  top: 8065.052734375px;
-  left: 1112.2236328125px;
-  width: 530px;
-  height: 63px;
-  z-index: 1;
-  position: absolute;
-  border-radius: 16.052631378173828px;
-}
-
-.desktop15-rectangle140 {
-  top: 8320.2900390625px;
-  left: 1112.2236328125px;
-  width: 530px;
-  height: 228px;
-  z-index: 1;
-  position: absolute;
-  border-radius: 16.052631378173828px;
 }
 
 .desktop15-text153 {
@@ -1736,99 +1706,6 @@
   left: 1350.32421875px;
   width: 91px;
   height: 91px;
-  position: absolute;
-}
-
-.desktop15-rectangle57 {
-  top: 1804.7548828125px;
-  left: 1358.142578125px;
-  width: 82px;
-  height: 83px;
-  position: absolute;
-  border-radius: 15.614693641662598px;
-}
-
-.desktop15-rectangle62 {
-  top: 1786.3740234375px;
-  left: 1328px;
-  width: 507px;
-  height: 116px;
-  position: absolute;
-  border-radius: 18.21714210510254px;
-}
-
-.desktop15-rectangle58 {
-  top: 1804.7548828125px;
-  left: 1352.0703125px;
-  width: 88px;
-  height: 83px;
-  position: absolute;
-  border-radius: 15.614693641662598px;
-}
-
-.desktop15-text172 {
-  top: 1833.1103515625px;
-  left: 1465px;
-  color: rgba(38, 42, 89, 1);
-  height: auto;
-  position: absolute;
-  font-size: 22px;
-  font-style: Bold;
-  text-align: left;
-  font-family: Inter;
-  font-weight: 700;
-  line-height: normal;
-  font-stretch: normal;
-  text-decoration: none;
-}
-
-.desktop15-design15557728ezgifcomgifmaker {
-  top: 1806.5576171875px;
-  left: 1358.015625px;
-  width: 80px;
-  height: 80px;
-  position: absolute;
-}
-
-.desktop15-rectangle52 {
-  top: 1645.3740234375px;
-  left: 1328px;
-  width: 507px;
-  height: 116px;
-  position: absolute;
-  border-radius: 18.21714210510254px;
-}
-
-.desktop15-rectangle59 {
-  top: 1660.5654296875px;
-  left: 1350px;
-  width: 90px;
-  height: 85px;
-  position: absolute;
-  border-radius: 15.882353782653809px;
-}
-
-.desktop15-text173 {
-  top: 1687.5576171875px;
-  left: 1465px;
-  color: rgba(38, 42, 89, 1);
-  height: auto;
-  position: absolute;
-  font-size: 22px;
-  font-style: Bold;
-  text-align: left;
-  font-family: Inter;
-  font-weight: 700;
-  line-height: normal;
-  font-stretch: normal;
-  text-decoration: none;
-}
-
-.desktop15-graduationcap19015289ezgifcomgifmaker1 {
-  top: 1663.5576171875px;
-  left: 1357px;
-  width: 77px;
-  height: 77px;
   position: absolute;
 }
 

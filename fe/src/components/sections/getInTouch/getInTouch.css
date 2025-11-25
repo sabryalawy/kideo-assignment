@@ -22,3 +22,36 @@
   height: 161px;
   position: absolute;
 }
+
+.desktop15-rectangle138 {
+  top: 8065.052734375px;
+  left: 1112.2236328125px;
+  width: 530px;
+  height: 63px;
+  background-color: #f6f6f6;
+  z-index: 1;
+  position: absolute;
+  border-radius: 16.052631378173828px;
+}
+
+.desktop15-rectangle139 {
+  top: 8192.6708984375px;
+  left: 1112.2236328125px;
+  width: 530px;
+  height: 63px;
+  z-index: 1;
+  position: absolute;
+  background-color: #f6f6f6;
+  border-radius: 16.052631378173828px;
+}
+.desktop15-rectangle140 {
+  top: 8320.2900390625px;
+  left: 1112.2236328125px;
+  width: 530px;
+  padding-top: 15px;
+  height: 228px;
+  z-index: 1;
+  position: absolute;
+  background-color: #f6f6f6;
+  border-radius: 16.052631378173828px;
+}

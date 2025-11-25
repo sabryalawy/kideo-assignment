@@ -276,21 +276,7 @@ const Desktop15 = (props) => {
           alt="Vector70127"
           className="desktop15-vector7"
         />
-        <img
-          src="/rectangle1390128-yk8t-200h.png"
-          alt="Rectangle1390128"
-          className="desktop15-rectangle139"
-        />
-        <img
-          src="/rectangle1380129-xh9i-200h.png"
-          alt="Rectangle1380129"
-          className="desktop15-rectangle138"
-        />
-        <img
-          src="/rectangle1400130-0q5k-300h.png"
-          alt="Rectangle1400130"
-          className="desktop15-rectangle140"
-        />
+
         <span className="desktop15-text153">Learning Apps, Children Love</span>
         <img
           src="/asset130132-og6-200h.png"
@@ -524,43 +510,7 @@ const Desktop15 = (props) => {
           alt="safechildren16441409ezgifcomgifmaker0194"
           className="desktop15-safechildren16441409ezgifcomgifmaker"
         />
-        <img
-          src="/rectangle570195-fgv-200w.png"
-          alt="Rectangle570195"
-          className="desktop15-rectangle57"
-        />
-        <img
-          src="/rectangle620196-abmq-200h.png"
-          alt="Rectangle620196"
-          className="desktop15-rectangle62"
-        />
-        <img
-          src="/rectangle580197-27eo-200h.png"
-          alt="Rectangle580197"
-          className="desktop15-rectangle58"
-        />
-        <span className="desktop15-text172">Playful Creativity</span>
-        <img
-          src="/design15557728ezgifcomgifmaker0199-k3x5-200h.png"
-          alt="design15557728ezgifcomgifmaker0199"
-          className="desktop15-design15557728ezgifcomgifmaker"
-        />
-        <img
-          src="/rectangle520200-cs6-200h.png"
-          alt="Rectangle520200"
-          className="desktop15-rectangle52"
-        />
-        <img
-          src="/rectangle590201-58q-200h.png"
-          alt="Rectangle590201"
-          className="desktop15-rectangle59"
-        />
-        <span className="desktop15-text173">Inspiring Education</span>
-        <img
-          src="/graduationcap19015289ezgifcomgifmaker10203-bizb-200h.png"
-          alt="graduationcap19015289ezgifcomgifmaker10203"
-          className="desktop15-graduationcap19015289ezgifcomgifmaker1"
-        />
+
         <span className="desktop15-text174">
           <span>Our preschool apps offer wide range of contnet,</span>
           <br></br>
