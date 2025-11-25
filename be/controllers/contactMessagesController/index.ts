@@ -14,9 +14,8 @@ const ContactMessagesControllerRout: Router = Router();
 ContactMessagesControllerRout.post(
   "/",
   exptionHandlerASYNC(async (request: Request, response: Response) => {
-    if (!request.body.email || !request.body.password) {
-      throw VARIABLES_VALIDATION_FAILD;
-    }
+    console.log(request.body);
+
     const data = await addContactMessage(
       request.body.email,
       request.body.message,

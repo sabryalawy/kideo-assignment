@@ -7,7 +7,7 @@ const addMessage = (
   name: string
 ): Promise<any> => {
   const dbConnection = getConnection();
-  const query = `insert into contact_messages (email, message, name) values (${email}, ${message}, ${name})`;
+  const query = `insert into contact_messages (email, message, name) values ('${email}', '${message}', '${name}')`;
 
   return new Promise((resolve: Function, reject: Function) =>
     dbConnection.query(query, [], (error: any, result: any) => {
@@ -25,10 +25,17 @@ const addMessage = (
   );
 };
 
-const getMessages = (page: Number, limit: Number): Promise<any> => {
+const getMessages = (page: Number = 0, limit: Number = 10): Promise<any> => {
   const dbConnection = getConnection();
+  if (Number.isNaN(page)) {
+    page = 0;
+  }
+  if (Number.isNaN(limit)) {
+    limit = 10;
+  }
   const query = `select * 
-  from messages   `;
+  from contact_messages
+  limit ${limit} offset ${(page as number) * (limit as number)}`;
 
   return new Promise((resolve: Function, reject: Function) =>
     dbConnection.query(query, [], (error: any, result: any) => {
