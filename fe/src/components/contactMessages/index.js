@@ -1,11 +1,13 @@
 import { useEffect, useState } from "react";
 import ContactMessagesUI from "./ContactMessagesUI";
 import axios from "axios";
+import { useSnackbar } from "../../context/snackBarProvider";
 
 const ContactMessages = () => {
   const [page, setPage] = useState(0);
   const [loading, setLoading] = useState(false);
   const [data, setData] = useState([]);
+  const { showError } = useSnackbar();
   useEffect(() => {
     setLoading(true);
     axios
@@ -13,6 +15,9 @@ const ContactMessages = () => {
       .then((response) => {
         setData(response.data.data.messages);
         console.log(response);
+      })
+      .catch((error) => {
+        showError("Error fetching contact messages");
       })
       .finally(() => {
         setLoading(false);
