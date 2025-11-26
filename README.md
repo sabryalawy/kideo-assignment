@@ -30,6 +30,14 @@ The application will start on the default React development server port.
 
 ### Database Initialization
 Inside the `be` directory, there is a file named `sqlinit.sql` containing all required database tables. Copy its content into your MySQL environment to initialize the database.
+Inside the `be` directory, there is a file named `.env` that contains all the database info and name please check it out and make sure that the database is compatable
+DB_HOST=127.0.0.1
+DB_USRE=root
+DB_PASSWORD=root
+DB_NAME=kideo_assignment
+
+
+
 
 ### Quick Installation
 ```
